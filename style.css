@@ -2,3 +2,20 @@ body {
   background: solid;
   background-color: #efefef;
 }
+
+.container {
+  width: 100vw;
+  min-width: 100vw;
+  display: flex;
+  flex-wrap: wrap;
+  background: solid; 
+  background-color: white; 
+}
+
+.box {
+  border: solid;
+  border-width: 1px;
+  border-color: black;
+  min-width: 100px;
+  min-height: 100px;
+}
