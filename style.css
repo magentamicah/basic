@@ -23,6 +23,7 @@ body {
   flex-direction: column;
   border-color: black;
   min-width: 100px;
+  max-width: 300px;
   min-height: 100px;
  text-align: center;
 }
