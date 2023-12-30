@@ -22,8 +22,8 @@ body {
   border-radius: 5px;
   flex-direction: column;
   border-color: black;
-  min-width: 100px;
-  max-width: 300px;
+  min-width:300px;
+  max-width: 1200px;
   min-height: 100px;
   text-align: center;
   padding: 15px;
